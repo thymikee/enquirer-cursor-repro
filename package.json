@@ -1,0 +1,13 @@
+{
+  "name": "enquirer-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "enquirer": "^2.3.4"
+  }
+}
